@@ -1,0 +1,6 @@
+@COMP003._5._8Assignment_HostAddress = http://localhost:5223
+
+GET {{COMP003._5._8Assignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
