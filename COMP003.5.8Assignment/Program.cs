@@ -1,4 +1,7 @@
-
+﻿// Author:         Rosa Ovalle
+// Course:         COMP‑003B
+// Faculty Name:   Jonathan Cruz
+// Purpose:        Demonstrate CRUD operations via ASP.NET Core Web API
 namespace COMP003._5._8Assignment
 {
     public class Program
